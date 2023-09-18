@@ -15,15 +15,11 @@
 ## 🛠 Built With <a name="HTML and CSS"></a>
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Cloning]**
 - **[Linters]**
 - **[HTML and CSS]**
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Mehar-Aziz**
 
